@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: akumalla/cicd:XYZ
+        image: akumalla/cicd:2
         ports:
         - containerPort: 8080
 
